@@ -1,0 +1,89 @@
+body {
+    height: auto;
+}
+
+.szoveg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    text-align: center;
+}
+nav {
+    background-color: red;
+}
+.form-div {
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+footer {
+    height: 70px;
+    width: 100%;
+    position: absolute;
+    background-color: black;
+    color: #fff;
+    bottom: 0%;
+    left: 0%;
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: 50%;
+}
+#lista {
+    display: none;
+}
+
+.logo {
+    height: 70px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.listgomb {
+    display: none;
+}
+h1 {
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    margin-left: 40%;
+}
+
+@media only screen and (max-width: 600px) {
+    .gomb {
+        display: none;
+    }
+    .listgomb {
+        display: inline;
+        position: absolute;
+        right: 0%;
+        height: 70px;
+        width: 70px;
+        padding: 0;
+        border: none;
+        background: none;
+    }
+    table {
+        width: 350px;
+    }
+}
