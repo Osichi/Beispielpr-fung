@@ -1,0 +1,40 @@
+1,John_Doe,Hawai_pizza,2300,igen,3
+2,Alice_Smith,Margherita,1800,igen,4
+3,David_Jones,Pepperoni,2500,nem,1
+4,Emily_Brown,Quattro Stagioni,2700,igen,3
+5,Michael_Wilson,Fungi,2200,nem,1
+6,Sarah_Taylor,Diavola,2400,igen,3
+7,James_Anderson,Calzone,2600,igen,2
+8,Laura_Miller,Prosciutto,2600,nem,1
+9,Robert_Davis,Marinara,2000,igen,3
+10,Jennifer_Wilson,Quattro Formaggi,2900,igen,2
+11,William_Brown,Greek,2400,nem,1
+12,Emma_Martin,BBQ Chicken,2800,igen,3
+13,Daniel_White,Veggie Supreme,2700,igen,2
+14,Olivia_Thomas,Spinach and Ricotta,2500,nem,1
+15,Christopher_Lee,Meat Feast,3000,igen,3
+16,Samantha_Moore,Capricciosa,2600,nem,1
+17,Matthew_Turner,Seafood,3100,igen,2
+18,Ava_Harris,Supreme,2900,igen,1
+19,Andrew_Clark,Margherita,1800,igen,3
+20,Elizabeth_Lewis,Neapolitan,2200,igen,2
+21,Nicholas_Hall,Pesto,2600,igen,1
+22,Isabella_Walker,Mushroom,2300,igen,3
+23,Jacob_Young,Carbonara,2800,igen,2
+24,Grace_King,Artichoke,2400,nem,1
+25,Mason_Wright,Sicilian,2900,igen,3
+26,Chloe_Hill,Truffle,3000,igen,2
+27,Ethan_Green,Primavera,2700,nem,1
+28,Mia_Adams,Chicken Alfredo,3100,igen,3
+29,John_Doe,Margherita,2300,igen,3
+30,John_Doe,Diavola,2300,igen,3
+31,Alice_Smith,Margherita,1800,nem,1
+32,Alice_Smith,Margherita,1800,nem,1
+33,David_Jones,Pepperoni,2500,igen,2
+34,Michael_Wilson,Fungi,2200,nem,1
+35,Sarah_Taylor,Diavola,2400,igen,3
+36,Sarah_Taylor,Diavola,2400,igen,5
+37,James_Anderson,Calzone,2600,igen,4
+38,Robert_Davis,Marinara,2000,igen,7
+39,Robert_Davis,Marinara,2000,igen,3
+40,Jennifer_Wilson,Quattro Formaggi,2900,igen,2
