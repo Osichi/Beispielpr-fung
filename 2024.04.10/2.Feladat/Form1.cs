@@ -72,16 +72,30 @@ namespace _2.Feladat
                 label1.Text = "A legkevesebbet költő személy: " + keyValuePairs.Keys.Last() + ", összeg: " + keyValuePairs.Values.Last() + " Ft";
 
 
+            Dictionary<string, int> db = new Dictionary<string, int>();
 
-           
             foreach (var item in fests)
             {
-                if (item.napok <= 3)
+                if (db.ContainsKey(item.nev))
                 {
-                    string text = "A neve legalább háromszor szerepelt a listában:"+item.nev;
-                    listBox1.Items.Add(text);
+                    db[item.nev]++;
+                }
+                else
+                {
+                    db[item.nev] = 1;
                 }
             }
+            foreach (var item in db)
+            {
+                if (item.Value >= 3)
+                {
+                    string text = "A neve legalább háromszor szerepelt a listában:" + item.Key;
+                    listBox1.Items.Add(text);
+                }
+                
+            }
+
+            
             
         }
 

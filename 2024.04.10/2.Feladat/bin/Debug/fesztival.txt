@@ -28,4 +28,8 @@
 28,Patricia_Gonzalez,VOLT_Fesztivál,2,4,6300,igen
 29,Daniel_Nelson,Sziget_Fesztivál,1,7,5600,nem
 30,Laura_Carter,Balaton_Sound,3,3,6300,nem
-31,Kimberly_Scott,Balaton_Sound,1,4,5500,nem
+31,Jane_Smith,Balaton_Sound,4,6,2200,nem
+32,Jane_Smith,Balaton_Sound,2,5,4200,nem
+33,Amanda_Martinez,Sziget_Fesztivál,3,5,5200,nem
+34,Amanda_Martinez,VOLT_Fesztivál,1,6,3200,nem
+35,Amanda_Martinez,VOLT_Fesztivál,3,5,4500,nem
