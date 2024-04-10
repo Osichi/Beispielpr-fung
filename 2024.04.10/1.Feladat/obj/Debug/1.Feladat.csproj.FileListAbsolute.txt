@@ -1,0 +1,8 @@
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\bin\Debug\1.Feladat.exe.config
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\bin\Debug\1.Feladat.exe
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\bin\Debug\1.Feladat.pdb
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\obj\Debug\1.Feladat.csproj.AssemblyReference.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\obj\Debug\1.Feladat.csproj.SuggestedBindingRedirects.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\obj\Debug\1.Feladat.csproj.CoreCompileInputs.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\obj\Debug\1.Feladat.exe
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\1.Feladat\obj\Debug\1.Feladat.pdb

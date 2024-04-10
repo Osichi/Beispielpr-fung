@@ -1,0 +1,11 @@
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\2.Feladat.csproj.AssemblyReference.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\2.Feladat.csproj.SuggestedBindingRedirects.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\_2.Feladat.Form1.resources
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\_2.Feladat.Properties.Resources.resources
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\2.Feladat.csproj.GenerateResource.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\2.Feladat.csproj.CoreCompileInputs.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\bin\Debug\2.Feladat.exe.config
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\bin\Debug\2.Feladat.exe
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\bin\Debug\2.Feladat.pdb
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\2.Feladat.exe
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\2.Feladat\obj\Debug\2.Feladat.pdb
